@@ -35,4 +35,9 @@ notification.mp3
 /cache.json
 UsefulPrompts.txt
 /cache.json*
-/config_states/ 
+/config_states/
+/node_modules
+/package-lock.json
+/.coverage*
+/test/test_outputs
+/cache
