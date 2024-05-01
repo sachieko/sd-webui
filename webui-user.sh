@@ -13,7 +13,7 @@
 export COMMANDLINE_ARGS="--xformers --listen --port 8001"
 
 # python3 executable
-python_cmd="python3.11"
+python_cmd="python3.12"
 
 # git executable
 #export GIT="git"
